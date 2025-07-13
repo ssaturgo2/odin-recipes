@@ -1,7 +1,7 @@
 # Odin Recipes
+## Project Description
 [Live Preview](https://ssaturgo2.github.io/odin-recipes)
 
-## Project Description
 This project is a simple recipe website, built as part of The Odin Project's curriculum. It demonstrates basic HTML skills, including:
 
 *   Creating a basic website structure.
