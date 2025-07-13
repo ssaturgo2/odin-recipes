@@ -1,7 +1,7 @@
 # Odin Recipes
+[Live Preview](https://ssaturgo2.github.io/odin-recipes)
 
 ## Project Description
-
 This project is a simple recipe website, built as part of The Odin Project's curriculum. It demonstrates basic HTML skills, including:
 
 *   Creating a basic website structure.
@@ -12,5 +12,4 @@ This project is a simple recipe website, built as part of The Odin Project's cur
 The website currently features recipes for chicken alfredo, breakfast burrito, and miso chicken noodle soup
 
 ## Technologies Used
-
 *   **HTML5:**  The foundation of the webpage, used for structuring the content and layout.
